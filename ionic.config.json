@@ -1,0 +1,7 @@
+{
+  "name": "uichallenge-taskmanager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
